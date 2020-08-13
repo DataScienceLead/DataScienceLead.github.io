@@ -9,8 +9,8 @@
 	color: #1a1918;
 }
 
-a { color: white; font-weight: bold; font-size: 14px; font-family: Arial, Helvetica, sans-serif;
-	 padding: 3px 10px; background-color: #ff6600; border-radius: 5px; }
+a { color: white; font-weight: bold; font-size: 16px; font-family: Arial, Helvetica, sans-serif;
+	 padding: 3px 10px; background-color: #333; border-radius: 5px; }
 
 
 .TestClass {
@@ -28,11 +28,11 @@ p.indented {
 
 h1 { color: #1a1918; font-family: 'Helvetica Neue', sans-serif; font-size: 30px; font-weight: bold; letter-spacing: -1px; line-height: 1; text-align: center; }
 
-h2 { color: #1a1918; font-family: 'Helvetica Neue', sans-serif; font-size: 20px; font-weight: bold; letter-spacing: -0.5px; line-height: 1; text-align: center; }
+h2 { color: #1a1918; font-family: 'Helvetica Neue', sans-serif; font-size: 22px; font-weight: bold; letter-spacing: -0.5px; line-height: 1; text-align: center; }
 
-h4 { color: #1a1918; font-family: 'Helvetica Neue', sans-serif; font-size: 14px;  letter-spacing: 0px; line-height: 1; text-align: center; }
+h4 { color: #1a1918; font-family: 'Helvetica Neue', sans-serif; font-size: 18px;  letter-spacing: 0px; line-height: 1; text-align: center; }
 
-p { color: #1a1918; font-family: 'Helvetica Neue', sans-serif; font-size: 14px; line-height: 24px; margin: 0 0 24px; text-align: center; text-justify: inter-word; }
+p { color: #1a1918; font-family: 'Helvetica Neue', sans-serif; font-size: 16px; line-height: 24px; margin: 0 0 24px; text-align: center; text-justify: inter-word; }
 
 
 body{
