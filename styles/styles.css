@@ -5,7 +5,7 @@
 @font-face {
 	font-family: sans-serif;
 	font-size: 20px;
-	text-align: center;
+	text-align: left;
 	color: #1a1918;
 }
 
@@ -13,18 +13,11 @@ a { color: white; font-weight: bold; font-size: 16px; font-family: Arial, Helvet
 	 padding: 3px 10px; background-color: #333; border-radius: 5px;}
 
 
-.TestClass {
-	color: Black;
-	background-color: Grey;
-	text-align: center;
-	
-}
 */
 
 p.indented {
 		margin-left: 25px;
 	}
-
 
 h1 { color: #1a1918; font-family: 'Helvetica Neue', sans-serif; font-size: 30px; font-weight: bold; letter-spacing: -1px; line-height: 1; text-align: center; }
 
@@ -34,11 +27,13 @@ h3 { color: #1a1918; font-family: 'Helvetica Neue', sans-serif; font-size: 18px;
 
 h4 { color: #1a1918; font-family: 'Helvetica Neue', sans-serif; font-size: 16px;  letter-spacing: 0px; line-height: 1; text-align: center; }
 
-p { color: #1a1918; font-family: 'Helvetica Neue', sans-serif; font-size: 16px; line-height: 24px; margin: 0 0 24px; text-align: center; text-justify: inter-word; }
+p { color: #1a1918; font-family: 'Helvetica Neue', sans-serif; font-size: 16px; line-height: 24px; margin: 10 0 24px; text-align: left; text-justify: inter-word; }
+
+li { color: #1a1918; font-family: 'Helvetica Neue', sans-serif; font-size: 16px; }
 
 body{
 	background-color: #f6f6f6;
-	text-align: center;
+	text-align: left;
 	font-size: 16px;
 	font-family: 'Helvetica Neue';
 }
@@ -47,7 +42,7 @@ body{
 	font-size: 12px; font-weight: bold; line-height: 12px; letter-spacing: 1px; margin: 0 0 30px; padding: 10px 15px 8px;
 	 text-transform: uppercase; }
 
-ul {
+.nav ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -55,12 +50,12 @@ ul {
   background-color: #333;
 }
 
-li {
+.nav li {
   float: left;
 }
 
-li a {
-  display: block;
+.nav li a {
+  display: inline-block;
   color: white;
   text-align: center;
   padding: 14px 16px;
@@ -68,6 +63,7 @@ li a {
 }
 
 /* Change the link color to #111 (black) on hover */
-li a:hover {
+.nav li a:hover {
   background-color: #111;
 }
+
