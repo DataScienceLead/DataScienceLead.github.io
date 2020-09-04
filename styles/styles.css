@@ -21,6 +21,11 @@ p.indented {
 		margin-left: 25px;
 	}
 
+footer.topmargin{
+	margin-top: 100px;
+}
+
+
 h1 { color: #1a1918; font-family: 'Helvetica Neue', sans-serif; 
 	font-size: 30px; font-weight: bold; letter-spacing: -1px; 
  line-height: 1; text-align: left;margin-left: 20px; }
