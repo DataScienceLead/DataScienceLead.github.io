@@ -30,11 +30,11 @@ h1 { color: #1a1918; font-family: 'Helvetica Neue', sans-serif;
 	font-size: 30px; font-weight: bold; letter-spacing: -1px; 
  line-height: 1; text-align: left; }
 
-h2 { color: #1a1918; font-family: 'Helvetica Neue', sans-serif; 
+h2 { color: #ef7215; font-family: 'Helvetica Neue', sans-serif; 
 	font-size: 24px; font-weight: bold; letter-spacing: -0.5px; 
 	line-height: 1; text-align: left;  }
 
-h3 { color: #ef7215; font-family: 'Helvetica Neue', sans-serif; 
+h3 { color: #1a1918; font-family: 'Helvetica Neue', sans-serif; 
 	font-size: 22px; font-weight: bold; letter-spacing: -0.25px; 
 	line-height: 1; text-align: left;  }
 
@@ -96,6 +96,43 @@ body{
   background-color: #111;
 }
 
+.intro section {
+	float: left
+}
+
+.nvert ul {  
+	width: 250px;
+	float:left;
+	margin-top: 12px;
+	margin-right: 18px;
+	margin-bottom: 20px;
+
+
+}
+.nvert  li a 	{text-decoration: none;
+	font-weight: bold;
+	color : white;
+	background-color: #ef7215	;
+	padding: 3px 3px 3px 3px;
+	display: block;
+	font-size: 16px;
+	border-radius:none;
+}
+
+.nvert  li a:hover, nav li a:active {text-decoration: none;
+	font-weight: bold;
+	color : white;
+	background-color: #15ef72;
+	padding: 3px 3px 3px 3px;
+	display: block;
+	font-size: 16px;
+	border-radius:none;
+}
+
+.nvert li 	{
+	border-bottom: 1px solid #ef7215;
+	border-radius:none;
+}
 
 /*
 footer {
