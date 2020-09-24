@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /lectures/
+# Sitemap files
+Sitemap: https://www.datasciencelead.github.io/sitemap.xml
