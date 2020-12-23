@@ -25,7 +25,7 @@
 			
 		<ul class="nav">
 			<li class="nav"><a href ="./index.html"> Home</a> </li>
-			<li class="nav"><a href = "./samfBI.html"> Samfunnsøkonomi - BI </a> </li>
+			<li class="nav"><a href = "./teaching.html"> Teaching </a> </li>
 			<li class="nav"><a href = "./research.html"> Research </a> </li>
 			<!--<li><a href = "#"> Blog </a></li>-->
 			<!--<li><a href ="./aboutme.html"> About me</a> </li>-->
@@ -85,11 +85,15 @@ næringer leverer? <em>Rapporter</em> 2010/8, Statistisk sentralbyrå</p>
 
 </section>
 
-<footer>
-	<p class = indented>
-		&copy; 2020 Joakim Blix Prestmo. All Rights Reserved. 	
-	</p>
-	 
-</footer>
+<script>
+    document.querySelector('#copyright-year').innerText = new Date().getFullYear();
+</script>
+	<footer class = topmargin>      
+		<p class=indented>
+ 		&copy; <span id="copyright-year">2020 </span> Joakim Blix Prestmo. All Rights Reserved.
+
+		</p>
+	</footer>
+
 </body>
 </html>

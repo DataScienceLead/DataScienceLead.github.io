@@ -1,22 +1,12 @@
 <!DOCTYPE html>
 <html lang="no">
 <head>
-	<title>Joakim Blix Prestmo hjemmeside for samfunnsøkonomi</title>
+	<title>Hjemmeside for SØK3442 samfunnsøkonomi</title>
 	<link rel='stylesheet' href='./styles/styles.css' >
 	<script async src='./javascript/index.js'> </script>
 	<meta charset="utf-8">  
 	<meta name="description" content="Kursside til Samfunnsøkonomi SØK3442 ved BI - Norwegian Business School. Foreleser er Joakim Blix Prestmo">
 
-<script>
-    (function(h,o,t,j,a,r){
-        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
-        h._hjSettings={hjid:1975548,hjsv:6};
-        a=o.getElementsByTagName('head')[0];
-        r=o.createElement('script');r.async=1;
-        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
-        a.appendChild(r);
-    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
-</script>
 </head>
 
 <body>
@@ -31,7 +21,7 @@
 			
 		<ul class="nav">
 			<li class="nav"><a href ="./index.html"> Home</a> </li>
-			<li class="nav"><a href = "./samfBI.html"> Samfunnsøkonomi - BI </a> </li>
+			<li class="nav"><a href = "./teaching.html"> Teaching </a> </li>
 			<li class="nav"><a href = "./research.html"> Research </a> </li>
 			<!--<li><a href = "#"> Blog </a></li>-->
 			<!--<li><a href ="./aboutme.html"> About me</a> </li>-->
@@ -69,7 +59,7 @@
 		</ul>
 			</p>
 			<h3>Direktesending av forelesning</h3>
-			<p>Dere finner lenke til direktesending av forelesningen <a href="https://tv.bi.no/live/64318794">her</a>. Opptak av forelesningen ligger på Its learning.</p>
+			<p>Studenter med tilgang til BI sine interne sider finner lenke til direktesending av forelesningen <a href="https://tv.bi.no/live/64318794">her</a>. Opptak av forelesningen ligger på Its learning.</p>
 			
 	</section>
 	<section id = "Forelesning">
@@ -185,13 +175,16 @@
 			<li>Norges Bank sin pengepolitiske rapport: <a href="https://static.norges-bank.no/contentassets/259302d7e57e4710b1f8f3b3795e017e/ppr_320.pdf?v=09/25/2020164053&ft=.pdf">Norges Bank</a></li>
 		</ul>
 	</section>
-	<footer class = topmargin>               
-	<p class = indented>
-		&copy; 2020 Joakim Blix Prestmo. All Rights Reserved. 	
-	</p>
-	 
-	 
-</footer>
+	<script>
+    document.querySelector('#copyright-year').innerText = new Date().getFullYear();
+</script>
+	<footer class = topmargin>      
+		<p class=indented>
+ 		&copy; 2010-<span id="copyright-year">2020 </span> Joakim Blix Prestmo. All Rights Reserved.
+
+		</p>
+	</footer>
+
 </div>
 </body>
 </html>
