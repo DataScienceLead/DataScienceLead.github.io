@@ -1,64 +1,130 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
 <url>
-  <loc>https://datasciencelead.github.io/</loc>
-  <lastmod>2020-09-23T08:27:49+00:00</lastmod>
-  <priority>1.00</priority>
+<loc>https://datasciencelead.github.io/</loc>
+<lastmod>2021-02-04T05:20:19+00:00</lastmod>
+<priority>1.00</priority>
 </url>
 <url>
-  <loc>https://datasciencelead.github.io/index.html</loc>
-  <lastmod>2020-09-23T08:27:49+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://datasciencelead.github.io/index.html</loc>
+<lastmod>2021-02-04T05:20:19+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://datasciencelead.github.io/samfBI.html</loc>
-  <lastmod>2020-09-23T08:27:49+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://datasciencelead.github.io/teaching.html</loc>
+<lastmod>2021-02-04T05:20:20+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://datasciencelead.github.io/research.html</loc>
-  <lastmod>2020-09-23T08:27:49+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://datasciencelead.github.io/research.html</loc>
+<lastmod>2021-02-04T05:20:20+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://datasciencelead.github.io/BI/PensumH20.docx</loc>
-  <lastmod>2020-09-23T08:27:49+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://datasciencelead.github.io/mikroBI.html</loc>
+<lastmod>2021-02-04T05:20:20+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://datasciencelead.github.io/lectures/forelesning1.pdf</loc>
-  <lastmod>2020-09-23T08:27:49+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://datasciencelead.github.io/samfBI.html</loc>
+<lastmod>2021-02-04T05:20:20+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://datasciencelead.github.io/lectures/forelesning2a.pdf</loc>
-  <lastmod>2020-09-23T08:27:49+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://datasciencelead.github.io/BI/ForelsesningsplanELE%203729.docx</loc>
+<lastmod>2021-02-04T05:20:19+00:00</lastmod>
+<priority>0.51</priority>
 </url>
 <url>
-  <loc>https://datasciencelead.github.io/lectures/forelesning2b.pdf</loc>
-  <lastmod>2020-09-23T08:27:49+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://datasciencelead.github.io/lectures/mikro/Forelesning1.pdf</loc>
+<lastmod>2021-02-04T05:20:20+00:00</lastmod>
+<priority>0.51</priority>
 </url>
 <url>
-  <loc>https://datasciencelead.github.io/lectures/forelesning6.pdf</loc>
-  <lastmod>2020-09-23T08:27:49+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://datasciencelead.github.io/lectures/mikro/Forelesning2.pdf</loc>
+<lastmod>2021-02-04T05:20:20+00:00</lastmod>
+<priority>0.51</priority>
 </url>
 <url>
-  <loc>https://datasciencelead.github.io/BI/exercise/Oppgavesett1.pdf</loc>
-  <lastmod>2020-09-23T08:27:49+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://datasciencelead.github.io/lectures/mikro/Forelesning3.pdf</loc>
+<lastmod>2021-02-04T05:20:20+00:00</lastmod>
+<priority>0.51</priority>
 </url>
 <url>
-  <loc>https://datasciencelead.github.io/BI/exercise/LosningOppgavesett1.pdf</loc>
-  <lastmod>2020-09-23T08:27:49+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://datasciencelead.github.io/BI/Forelesningsplan_SOK3442_2020.pdf</loc>
+<lastmod>2021-02-04T05:20:19+00:00</lastmod>
+<priority>0.51</priority>
 </url>
-
-
+<url>
+<loc>https://datasciencelead.github.io/lectures/forelesning1.pdf</loc>
+<lastmod>2021-02-04T05:20:20+00:00</lastmod>
+<priority>0.51</priority>
+</url>
+<url>
+<loc>https://datasciencelead.github.io/lectures/forelesning2a.pdf</loc>
+<lastmod>2021-02-04T05:20:20+00:00</lastmod>
+<priority>0.51</priority>
+</url>
+<url>
+<loc>https://datasciencelead.github.io/lectures/forelesning2b.pdf</loc>
+<lastmod>2021-02-04T05:20:20+00:00</lastmod>
+<priority>0.51</priority>
+</url>
+<url>
+<loc>https://datasciencelead.github.io/lectures/forelesning6.pdf</loc>
+<lastmod>2021-02-04T05:20:20+00:00</lastmod>
+<priority>0.51</priority>
+</url>
+<url>
+<loc>https://datasciencelead.github.io/lectures/forelesning7.pdf</loc>
+<lastmod>2021-02-04T05:20:20+00:00</lastmod>
+<priority>0.51</priority>
+</url>
+<url>
+<loc>https://datasciencelead.github.io/lectures/Forelesning8.pdf</loc>
+<lastmod>2021-02-04T05:20:20+00:00</lastmod>
+<priority>0.51</priority>
+</url>
+<url>
+<loc>https://datasciencelead.github.io/lectures/forelesning9.pdf</loc>
+<lastmod>2021-02-04T05:20:20+00:00</lastmod>
+<priority>0.51</priority>
+</url>
+<url>
+<loc>https://datasciencelead.github.io/lectures/forelesning10.pdf</loc>
+<lastmod>2021-02-04T05:20:20+00:00</lastmod>
+<priority>0.51</priority>
+</url>
+<url>
+<loc>https://datasciencelead.github.io/lectures/forelesning11.pdf</loc>
+<lastmod>2021-02-04T05:20:20+00:00</lastmod>
+<priority>0.51</priority>
+</url>
+<url>
+<loc>https://datasciencelead.github.io/lectures/forelesning12.pdf</loc>
+<lastmod>2021-02-04T05:20:20+00:00</lastmod>
+<priority>0.51</priority>
+</url>
+<url>
+<loc>https://datasciencelead.github.io/lectures/forelesning13.pdf</loc>
+<lastmod>2021-02-04T05:20:20+00:00</lastmod>
+<priority>0.51</priority>
+</url>
+<url>
+<loc>https://datasciencelead.github.io/lectures/forelesning14.pdf</loc>
+<lastmod>2021-02-04T05:20:20+00:00</lastmod>
+<priority>0.51</priority>
+</url>
+<url>
+<loc>https://datasciencelead.github.io/BI/exercise/Oppgavesett1.pdf</loc>
+<lastmod>2021-02-04T05:20:19+00:00</lastmod>
+<priority>0.51</priority>
+</url>
+<url>
+<loc>https://datasciencelead.github.io/BI/exercise/LosningOppgavesett1.pdf</loc>
+<lastmod>2021-02-04T05:20:19+00:00</lastmod>
+<priority>0.51</priority>
+</url>
 </urlset>
