@@ -169,6 +169,11 @@ ul.sirk {
   margin-left: 200px; /* Same as the width of the sidenav */
 }
 
+.mainwobar {
+  margin-left: 0px; /* without sidenav */
+}
+
+
 @media screen and (max-height: 450px) {
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
