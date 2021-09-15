@@ -181,6 +181,24 @@ ul.sirk {
 
 .pub {margin-top: 20px; margin-bottom: 20px}
 
+
+.image-cropper {
+	width: 150px;
+	height: 150px;
+	position: relative; 
+	overflow: hidden;
+	border-radius: 50%;
+  }
+  
+  img {
+	display: inline;
+	margin: auto;
+	margin-left: 45px;
+	height: 100%;
+	width: auto;
+  }
+
+  
 /*
 footer {
    position:absolute;
